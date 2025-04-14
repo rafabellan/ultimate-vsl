@@ -14,36 +14,39 @@ export const stepColors = [
 
 // Defina os nomes dos passos aqui
 export const stepNames = [
-  "Introdução ao Problema", 
-  "Agitação do Problema",
-  "Apresentação da Solução",
-  "Explicação do Produto",
-  "Chamada para Ação"
+  "A Sugestão Snap", 
+  "A Conexão Vital",
+  "O Grande Problema",
+  "A Grande Solução",
+  "A Grande Oferta"
 ];
 
 // Defina os nomes das seções para cada passo
 export const sectionNames: { [key: number]: string[] } = {
-  // Passo 1: Introdução ao Problema
+  // Passo 1: A Sugestão Snap
   1: [
-    "Chamar Atenção",
-    "Estabelecer Credibilidade"
+    "Quebra de Padrão",
+    "Sua Grande Promessa",
+    "Escassez do Vídeo",
+    "Algo Completamente Diferente",
+    "Vamos Fazer um Acordo"
   ],
-  // Passo 2: Agitação do Problema
+  // Passo 2: A Conexão Vital
   2: [
     "Dor e Frustração",
     "Consequências Negativas"
   ],
-  // Passo 3: Apresentação da Solução
+  // Passo 3: O Grande Problema
   3: [
     "Revelação da Solução",
     "Benefícios Principais"
   ],
-  // Passo 4: Explicação do Produto
+  // Passo 4: A Grande Solução
   4: [
     "Funcionalidades",
     "Diferencial Competitivo"
   ],
-  // Passo 5: Chamada para Ação
+  // Passo 5: A Grande Oferta
   5: [
     "Oferta e Bônus",
     "Urgência e Escassez"
