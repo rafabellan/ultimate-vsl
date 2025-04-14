@@ -226,4 +226,4 @@ export const slideOptions: { [key: string]: string[] } = {
     "Imagine como será sua vida daqui a [tempo futuro] se você tomar esta decisão agora.",
     "Clique no botão abaixo agora mesmo e transforme sua realidade para sempre."
   ]
-}; 
+}; // Adicionando um comentário para forçar uma alteração
