@@ -82,12 +82,12 @@ export const sectionNames: { [key: number]: string[] } = {
 export const slideOptions: { [key: string]: string[] } = {
   // PASSO 1
   // Seção 1.1: Quebra de Padrão
-  "slide-1": [
+  "slide-1-1-1": [
     "Oi, meu nome é (SEU NOME OU NOME DA TERCEIRA PESSOA FAZENDO O VÍDEO) e essa é uma (IMAGEM DE INTERRUPÇÃO)...?",
     "Oi, meu nome é (SEU NOME OU NOME DA TERCEIRA PESSOA FAZENDO O VÍDEO) e sem essa (IMAGEM DE INTERRUPÇÃO), você não tem chance alguma de conseguir/ter/conquistar (OBJETIVO)...",
     "Meu nome é (SEU NOME OU NOME DA TERCEIRA PESSOA FAZENDO O VÍDEO) e o que você está enxergando nesse exato instante é uma (IMAGEM DE INTERRUPÇÃO)... estranho não?"
   ],
-  "slide-2": [
+  "slide-1-1-2": [
     "Em apenas alguns minutos você vai descobrir porque essa (IMAGEM) é o SEGREDO para que você possa (OBJETIVO)...",
     "Eu já vou explicar o que isso significa logo logo...",
     "Curioso? Então não se preocupe que tudo vai fazer sentido daqui a pouco...",
