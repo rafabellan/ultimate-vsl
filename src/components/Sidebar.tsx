@@ -273,7 +273,7 @@ export default function Sidebar({
                       <span className="flex items-center">
                         <span className={`w-2 h-2 rounded-full mr-2 bg-gradient-to-r ${step.color}`}></span>
                         <span>
-                          {step.number}.{section.number} {section.title}
+                          {section.title}
                         </span>
                       </span>
                       {expandedSections[section.id] ? (
@@ -304,7 +304,7 @@ export default function Sidebar({
                                   ? `bg-gradient-to-r ${step.color}` 
                                   : isSaved ? 'bg-green-500' : 'bg-gray-300'
                               }`}></span>
-                              <span>{step.number}.{section.number}.{slide.number} {slide.title}</span>
+                              <span>Slide {slide.number}</span>
                               {isSaved && (
                                 <span className="ml-auto">
                                   <span className="inline-block w-2 h-2 bg-green-500 rounded-full"></span>
