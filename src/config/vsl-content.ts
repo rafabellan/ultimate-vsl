@@ -18,7 +18,8 @@ export const stepNames = [
   "A Conexão Vital",
   "O Grande Problema",
   "A Grande Solução",
-  "A Grande Oferta"
+  "A Grande Oferta",
+  "Perguntas & Respostas"
 ];
 
 // Defina os nomes das seções para cada passo
@@ -33,23 +34,47 @@ export const sectionNames: { [key: number]: string[] } = {
   ],
   // Passo 2: A Conexão Vital
   2: [
-    "Dor e Frustração",
-    "Consequências Negativas"
+    "Introdução Modesta",
+    "A História do Pesadelo",
+    "Transição Para o Grande Problema",
+    "Sobre o Sistema",
+    "Resultados do Sistema",
+    "Transição Final"
   ],
   // Passo 3: O Grande Problema
   3: [
-    "Revelação da Solução",
-    "Benefícios Principais"
+    "Visão Geral",
+    "Transição para a Grande Mentira",
+    "Loop da Grande Mentira",
+    "A Culpa Não é Sua",
+    "Culpe Isso",
+    "A Grande Verdade",
+    "Loop Para a Grande Solução"
   ],
   // Passo 4: A Grande Solução
   4: [
-    "Funcionalidades",
-    "Diferencial Competitivo"
+    "Abertura de Loop de Dicas",
+    "Resumo da Fórmula de Dicas",
+    "A Dica do Que Evitar",
+    "A Dica do Que Curtir",
+    "A Dica do Que Fazer",
+    "Transição para a Grande Oferta"
   ],
   // Passo 5: A Grande Oferta
   5: [
-    "Oferta e Bônus",
-    "Urgência e Escassez"
+    "O Produto",
+    "O Preço",
+    "A Chamada Para Ação",
+    "Dor/Prazer",
+    "Ações/Resultados"
+  ],
+  // Passo 6: Perguntas & Respostas
+  6: [
+    "O Produto",
+    "O Preço",
+    "A Chamada Para Ação",
+    "Dor/Prazer",
+    "Ações/Resultados"
   ]
 };
 
