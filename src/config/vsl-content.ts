@@ -258,3 +258,4 @@ export const slideOptions: { [key: string]: string[] } = {
 }; 
 // Adiciona comentário para teste
 // Comentário para teste
+// Adicionar comentário para atualizar arquivo
