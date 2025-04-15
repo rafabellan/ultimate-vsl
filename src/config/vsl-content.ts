@@ -256,3 +256,4 @@ export const slideOptions: { [key: string]: string[] } = {
     "Clique no botão abaixo agora mesmo e transforme sua realidade para sempre."
   ]
 }; 
+// Adiciona comentário para teste
